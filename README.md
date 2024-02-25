@@ -1,2 +1,2 @@
 # Currency-Convertor
-A small HTML , CSS &amp; JavaScript based project that is used to covert currency at a specific rate.
+A HTML,CSS & JavaScript based project that is used to covert currency at a specific rate using APIs.
